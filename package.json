@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.8",
+    "fs-extra": "^11.1.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.2.0",
+    "solc": "^0.4.17",
+    "web3": "^1.8.2"
+  },
+  "name": "blockchain-kickstart",
+  "version": "1.0.0",
+  "main": "compile.js",
+  "directories": {
+    "test": "mocha"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
